@@ -9,4 +9,6 @@ This quoting engine demonstrates an end-to-end pipeline for analyzing 3D CAD fil
 
 Once the geometric and physical data is extracted, the system computes a detailed cost breakdown and lead time estimate. The cost is composed of material and machine time components, adjusted for complexity and volume-based discounts. Lead time is derived from the estimated cycle time and part count, with optional multipliers for specific material or design factors. By simulating core aspects of a real manufacturing quoting workflow, the engine provides engineers with immediate, data-driven estimates to accelerate sourcing decisions.
 
+![](images/workflow.png)
+
 
